@@ -1,5 +1,4 @@
-import java.awt.*;
-import java.awt.peer.SystemTrayPeer;
+
 import java.util.Scanner;
 
 class Main {
